@@ -1,0 +1,15 @@
+{
+  "name": "hiimesh-auto-creator",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@rolldown/binding-win32-x64-msvc": "^1.2.14",
+    "vite": "^8.3.0"
+  }
+}
